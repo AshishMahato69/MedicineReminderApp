@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.HealthReminder" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#088A15</item>
+        <item name="colorPrimaryDark">#088A15</item>
+        <item name="colorAccent">#A9088A15</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <!--    custom actionbar-->
+    <style name="MyActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <!--        status bar color-->
+        <item name="colorPrimary">#088A15</item>
+        <item name="colorPrimaryDark">#088A15</item>
+
+    </style>
+</resources>
